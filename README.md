@@ -1,5 +1,3 @@
-import React from "react";
-
 const Portfolio = () => {
     return (
         <div className="min-h-screen bg-gray-100 text-gray-900">
