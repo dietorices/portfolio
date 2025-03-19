@@ -8,3 +8,9 @@ También podrás encontrar mis logros, habilidades y certificaciones actualizado
 
 ## Logros
 
+## Proyectos
+
+<img align="left" width="250" height="150" src="https://github.com/dietorices/portfolio/blob/main/Images/ML.jpg"> **[Practicando Machine Learning](https://github.com/dietorices/PracticandoML)**
+
+En este proyecto iré colgando los ejercicios prácticos de Machine Learning que realizaré para perfeccionar mis habilidades. Dichos ejercicios irán desde EDA hasta redes neuronales, pasando por Webscraping o K-means. 
+#
