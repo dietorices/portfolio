@@ -10,12 +10,13 @@ También podrás encontrar mis logros, habilidades y certificaciones actualizado
 
 <img align="left" width="250" height="150" src="https://github.com/dietorices/portfolio/blob/main/Images/ML.jpg"> **[Practicando Machine Learning](https://github.com/dietorices/PracticandoML)**
 
-En este proyecto iré colgando los ejercicios prácticos de Machine Learning que realizaré para perfeccionar mis habilidades. Dichos ejercicios irán desde EDA hasta redes neuronales, pasando por Webscraping o K-means. 
+En este repositorio iré colgando los ejercicios prácticos de Machine Learning que realizaré para perfeccionar mis habilidades. Dichos ejercicios irán desde EDA hasta redes neuronales, pasando por Webscraping o K-means. 
 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/dietorices/portfolio/blob/main/Images/exoplanetas.jpg"> **[Exoplanetas](https://github.com/dietorices/Exoplanetas)**
 
+Este proyecto trata de analizar datos acerca de los exoplanetas descubiertos según la base de datos de la NASA. Esta compuesto de limpieza y entendimiendo de los datos, terminando con una visualización de los datos a través de PowerBI
 
 #
 
